@@ -1,0 +1,12 @@
+State,City,City Tier,Number of Stores
+Karnataka,Bengaluru,Tier 1,2
+Telangana,Hyderabad,Tier 1,1
+Tamil Nadu,Chennai,Tier 1,1
+Tamil Nadu,Madurai,Tier 2,1
+Tamil Nadu,Coimbatore,Tier 2,1
+Tamil Nadu,Salem,Tier 2,1
+Kerala,Thrissur,Tier 2,1
+Kerala,Thiruvananthapuram,Tier 2,1
+Kerala,Kochi,Tier 2,1
+Kerala,Kozhikode,Tier 2,1
+Kerala,Kottayam,Tier 3,1
