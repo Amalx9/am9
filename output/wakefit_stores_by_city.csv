@@ -1,0 +1,141 @@
+State,City,City Tier,Number of Stores
+Andhra Pradesh,Anantapur,Tier 3,1
+Andhra Pradesh,Bhimavaram,Tier 3,1
+Andhra Pradesh,Chirala,Tier 3,1
+Andhra Pradesh,Eluru,Tier 3,1
+Andhra Pradesh,Guntur,Tier 2,1
+Andhra Pradesh,Kadapa,Tier 3,1
+Andhra Pradesh,Kakinada,Tier 2,1
+Andhra Pradesh,Kurnool,Tier 2,1
+Andhra Pradesh,Nandyal,Tier 3,1
+Andhra Pradesh,Nellore,Tier 2,1
+Andhra Pradesh,Ongole,Tier 3,1
+Andhra Pradesh,Tirupati,Tier 3,1
+Andhra Pradesh,Vijayawada,Tier 2,1
+Andhra Pradesh,Visakhapatnam,Tier 2,1
+Andhra Pradesh,Vizianagaram,Tier 3,1
+Assam,Guwahati,Tier 2,1
+Assam,Jorhat,Tier 3,1
+Bihar,Muzaffarpur,Tier 3,1
+Bihar,Patna,Tier 2,1
+Chandigarh,Chandigarh,Tier 2,1
+Chhattisgarh,Bhilai,Tier 2,1
+Chhattisgarh,Bilaspur,Tier 2,1
+Chhattisgarh,Raipur,Tier 2,1
+Delhi,Delhi,Tier 1,8
+Delhi,Najafgarh,Tier 1,1
+Goa,Goa,Tier 3,1
+Gujarat,Ahmedabad,Tier 1,4
+Gujarat,Surat,Tier 2,3
+Gujarat,Anand,Tier 2,1
+Gujarat,Bhavnagar,Tier 2,1
+Gujarat,Gandhinagar,Tier 3,1
+Gujarat,Jamnagar,Tier 2,1
+Gujarat,Rajkot,Tier 2,1
+Gujarat,Vadodara,Tier 2,1
+Haryana,Gurugram,Tier 2,5
+Haryana,Ambala,Tier 3,1
+Haryana,Faridabad,Tier 2,1
+Haryana,Hisar,Tier 3,1
+Haryana,Rohtak,Tier 3,1
+Haryana,Sonipat,Tier 3,1
+Jharkhand,Ranchi,Tier 2,1
+Karnataka,Bengaluru,Tier 1,15
+Karnataka,Mysore,Tier 2,2
+Karnataka,Bellary,Tier 3,1
+Karnataka,Chikkamanguluru,Tier 3,1
+Karnataka,Hubli,Tier 2,1
+Karnataka,Kolar,Tier 3,1
+Karnataka,Mangalore,Tier 2,1
+Karnataka,Shivamogga,Tier 3,1
+Karnataka,Udupi,Tier 3,1
+Kerala,Kochi,Tier 2,1
+Kerala,Kottayam,Tier 3,1
+Kerala,Kozhikode,Tier 2,1
+Kerala,Trivandrum,Tier 2,1
+Madhya Pradesh,Indore,Tier 2,2
+Madhya Pradesh,Jabalpur,Tier 2,2
+Madhya Pradesh,Bhopal,Tier 2,1
+Madhya Pradesh,Chhindwara,Tier 3,1
+Madhya Pradesh,Gwalior,Tier 2,1
+Madhya Pradesh,Sagar,Tier 3,1
+Madhya Pradesh,Vidisha,Tier 3,1
+Maharashtra,Mumbai,Tier 1,8
+Maharashtra,Pune,Tier 1,8
+Maharashtra,Ahmednagar,Tier 3,1
+Maharashtra,Kolhapur,Tier 2,1
+Maharashtra,Nagpur,Tier 2,1
+Maharashtra,Nashik,Tier 2,1
+Maharashtra,Navi Mumbai,Tier 1,1
+Maharashtra,Sangli,Tier 2,1
+Maharashtra,Thane,Tier 1,1
+Nagaland,Dimapur,Tier 3,1
+Odisha,Balasore,Tier 3,1
+Odisha,Cuttack,Tier 2,1
+Odisha,Jharsuguda,Tier 3,1
+Odisha,Rourkela,Tier 2,1
+Puducherry,Pondicherry,Tier 2,1
+Punjab,Mohali,Tier 2,2
+Punjab,Bathinda,Tier 3,1
+Punjab,Faridkot,Tier 3,1
+Punjab,Ferozepur,Tier 3,1
+Punjab,Jalandhar,Tier 2,1
+Punjab,Pathankot,Tier 3,1
+Punjab,Patiala,Tier 3,1
+Rajasthan,Jaipur,Tier 2,4
+Rajasthan,Udaipur,Tier 3,2
+Rajasthan,Bhilwara,Tier 3,1
+Rajasthan,Bikaner,Tier 2,1
+Rajasthan,Ganganagar,Tier 3,1
+Rajasthan,Jodhpur,Tier 2,1
+Rajasthan,Kota,Tier 2,1
+Tamil Nadu,Chennai,Tier 1,8
+Tamil Nadu,Coimbatore,Tier 2,2
+Tamil Nadu,Ambur,Tier 3,1
+Tamil Nadu,Cuddalore,Tier 3,1
+Tamil Nadu,Dindigul,Tier 3,1
+Tamil Nadu,Gummidipoondi,Tier 3,1
+Tamil Nadu,Karaikudi,Tier 3,1
+Tamil Nadu,Krishnagiri,Tier 3,1
+Tamil Nadu,Madurai,Tier 2,1
+Tamil Nadu,Salem,Tier 2,1
+Tamil Nadu,Thirvallur,Tier 3,1
+Tamil Nadu,Tirupur,Tier 2,1
+Tamil Nadu,Tiruvannamalai,Tier 2,1
+Tamil Nadu,Trichy,Tier 2,1
+Telangana,Hyderabad,Tier 1,15
+Telangana,Armur,Tier 3,1
+Telangana,Kamareddy,Tier 3,1
+Telangana,Karimnagar,Tier 3,1
+Telangana,Khammam,Tier 3,1
+Telangana,Korutla,Tier 3,1
+Telangana,Mahbubnagar,Tier 3,1
+Telangana,Mancherial,Tier 3,1
+Telangana,Nalgonda,Tier 3,1
+Telangana,Nirmal,Tier 3,1
+Telangana,Nizamabad,Tier 3,1
+Telangana,Sangareddy,Tier 3,1
+Telangana,Siddipet,Tier 3,1
+Telangana,Suryapet,Tier 3,1
+Telangana,Warangal,Tier 2,1
+Uttar Pradesh,Lucknow,Tier 2,3
+Uttar Pradesh,Ghaziabad,Tier 2,2
+Uttar Pradesh,Noida,Tier 2,2
+Uttar Pradesh,Agra,Tier 2,1
+Uttar Pradesh,Aligarh,Tier 2,1
+Uttar Pradesh,Amroha,Tier 3,1
+Uttar Pradesh,Bareilly,Tier 2,1
+Uttar Pradesh,Faizabad,Tier 3,1
+Uttar Pradesh,Greater Noida,Tier 2,1
+Uttar Pradesh,Hapur,Tier 3,1
+Uttar Pradesh,Jhansi,Tier 2,1
+Uttar Pradesh,Kanpur,Tier 2,1
+Uttar Pradesh,Mathura,Tier 2,1
+Uttar Pradesh,Meerut,Tier 2,1
+Uttar Pradesh,Rampur,Tier 3,1
+Uttar Pradesh,Shahjahanpur,Tier 3,1
+Uttar Pradesh,Varanasi,Tier 2,1
+Uttarakhand,Dehradun,Tier 2,1
+West Bengal,Kolkata,Tier 1,6
+West Bengal,Asansol,Tier 2,1
+West Bengal,Serampore,Tier 1,1
