@@ -1,0 +1,73 @@
+State,City,City Tier,Number of Stores
+Andhra Pradesh,Visakhapatnam,Tier 2,3
+Andhra Pradesh,Guntur,Tier 2,1
+Andhra Pradesh,Kakinada,Tier 2,1
+Andhra Pradesh,Rajamahendravaram,Tier 2,1
+Andhra Pradesh,Tirupati,Tier 3,1
+Andhra Pradesh,Vijayawada,Tier 2,1
+Assam,Guwahati,Tier 2,1
+Bihar,Patna,Tier 2,1
+Chandigarh,Chandigarh,Tier 2,1
+Chhattisgarh,Raipur,Tier 2,1
+Delhi,Delhi,Tier 1,10
+Goa,Goa,Tier 3,2
+Gujarat,Ahmedabad,Tier 1,8
+Gujarat,Surat,Tier 2,3
+Gujarat,Vadodara,Tier 2,2
+Gujarat,Anand,Tier 2,1
+Gujarat,Bhavnagar,Tier 2,1
+Gujarat,Jamnagar,Tier 2,1
+Gujarat,Navsari,Tier 3,1
+Gujarat,Rajkot,Tier 2,1
+Haryana,Gurugram,Tier 2,6
+Haryana,Faridabad,Tier 2,1
+Karnataka,Bengaluru,Tier 1,32
+Karnataka,Mysore,Tier 2,2
+Karnataka,Ballari,Tier 3,1
+Karnataka,Belgaum,Tier 2,1
+Karnataka,Davangere,Tier 3,1
+Karnataka,Hubballi,Tier 2,1
+Karnataka,Mangalore,Tier 2,1
+Kerala,Kochi,Tier 2,2
+Kerala,Thiruvananthapuram,Tier 2,2
+Kerala,Kozhikode,Tier 2,1
+Kerala,Thrissur,Tier 2,1
+Madhya Pradesh,Indore,Tier 2,3
+Madhya Pradesh,Bhopal,Tier 2,1
+Maharashtra,Mumbai,Tier 1,28
+Maharashtra,Pune,Tier 1,15
+Maharashtra,Nagpur,Tier 2,2
+Maharashtra,Nashik,Tier 2,2
+Maharashtra,Kolhapur,Tier 2,1
+Maharashtra,Nanded,Tier 2,1
+Maharashtra,Sambhajinagar,Tier 2,1
+Maharashtra,Sangli,Tier 2,1
+Odisha,Bhubaneswar,Tier 2,2
+Puducherry,Puducherry,Tier 2,1
+Punjab,Mohali,Tier 2,2
+Punjab,Ludhiana,Tier 2,1
+Punjab,Patiala,Tier 3,1
+Rajasthan,Jaipur,Tier 2,4
+Rajasthan,Jodhpur,Tier 2,1
+Rajasthan,Kota,Tier 2,1
+Rajasthan,Udaipur,Tier 3,1
+Tamil Nadu,Chennai,Tier 1,15
+Tamil Nadu,Coimbatore,Tier 2,2
+Tamil Nadu,Salem,Tier 2,2
+Tamil Nadu,Avadi,Tier 1,1
+Tamil Nadu,Hosur,Tier 3,1
+Tamil Nadu,Madurai,Tier 2,1
+Tamil Nadu,Thiruporur Taluk,Tier 3,1
+Tamil Nadu,Tiruchirapally,Tier 2,1
+Tamil Nadu,Tiruppur,Tier 2,1
+Tamil Nadu,Vellore,Tier 2,1
+Telangana,Hyderabad,Tier 1,23
+Telangana,Karimnagar,Tier 3,1
+Telangana,Warangal,Tier 2,1
+Uttar Pradesh,Noida,Tier 2,4
+Uttar Pradesh,Ghaziabad,Tier 2,2
+Uttar Pradesh,Kanpur,Tier 2,1
+Uttar Pradesh,Lucknow,Tier 2,1
+Uttarakhand,Dehradun,Tier 2,1
+West Bengal,Kolkata,Tier 1,6
+West Bengal,Siliguri,Tier 2,1
