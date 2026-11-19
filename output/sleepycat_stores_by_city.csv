@@ -1,0 +1,19 @@
+State,City,City Tier,Number of Stores
+Delhi,Delhi NCR,Tier 1,9
+Karnataka,Bangalore,Tier 1,9
+Maharashtra,Mumbai,Tier 1,9
+Maharashtra,Pune,Tier 1,5
+Tamil Nadu,Chennai,Tier 1,4
+Gujarat,Ahmedabad,Tier 1,3
+Telangana,Hyderabad,Tier 1,6
+Gujarat,Surat,Tier 2,1
+Madhya Pradesh,Indore,Tier 2,1
+Rajasthan,Jaipur,Tier 2,2
+Punjab,Zirakpur,Tier 2,1
+Punjab,Ludhiana,Tier 2,1
+Andhra Pradesh,Visakhapatnam,Tier 2,1
+Andhra Pradesh,Kakinada,Tier 2,1
+Uttarakhand,Dehradun,Tier 2,1
+Madhya Pradesh,Bhopal,Tier 2,1
+Gujarat,Vadodara,Tier 2,1
+Kerala,Kochi,Tier 2,1
